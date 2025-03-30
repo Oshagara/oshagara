@@ -31,8 +31,8 @@ Hi there! I'm Israel Oshagara, a cybersecurity analyst and web developer with ex
 
 # 📫 **Connect with Me**  
 
-  - **Linkedin**: (https://linkedin.com/in/israeloshagara)
-  - **Github**: (https://github.com/IsraelOshagara)
+  - **Linkedin**: https://linkedin.com/in/oshagara001
+  - **Github**: https://github.com/Oshagara
   - **Email**: oshagaras@gmail.com 
 
 # ⚡ **Fun Facts**  

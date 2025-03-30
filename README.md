@@ -4,18 +4,19 @@ Hi there! I'm Israel Oshagara, a cybersecurity analyst and web developer with ex
 
 # 🛠️ **Tech Stack & Expertise**  
 
+   ##  _**Full-Stack Development**_  
+  - Frontend: React.js, Next.js, Tailwind CSS, Framer Motion
+  - Backend: Node.js, Express.js  
+  - Database: MongoDB, MySql  
+  - Version control: Git, GitHub
+
   ## _**Cybersecurity & IT Security**_  
   - Vulnerability assessment and penetration testing (VAPT)  
   - Network security and cloud security  
   - Threat intelligence and risk management  
+ 
 
- ##  _**Full-Stack Development**_  
-  - Frontend: React.js, Next.js, Tailwind CSS  
-  - Backend: Node.js, Express.js  
-  - Database: MongoDB, Firebase  
-  - Version control: Git, GitHub  
-
-📌 **Work Experience**  
+# 📌 **Work Experience**  
 
   - **Cybersecurity analyst** – Intern at Digitanotion (VAPT, cyber risk)  
   - **Web developer and technical support** – 360TFA Limited

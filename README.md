@@ -1,4 +1,4 @@
-# 🚀 **Israel Oshagara | Cybersecurity Analyst & Web Developer**  
+# 🚀 **Israel Oshagara | Web Developer & Cybersecurity Analyst**  
 
 Hi there! I'm Israel Oshagara, a cybersecurity analyst and web developer with expertise in penetration testing, web security, and full-stack development. I am passionate about building secure and scalable digital solutions.  
 

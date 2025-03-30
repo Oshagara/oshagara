@@ -21,7 +21,7 @@ Hi there! I'm Israel Oshagara, a cybersecurity analyst and web developer with ex
   - **Cybersecurity analyst** – Intern at Digitanotion (VAPT, cyber risk)  
   - **Web developer and technical support** – 360TFA Limited
   - **Regional Network Manager** – Access Bank Plc (Fintech & Digital Banking)
-  - **Front End Developer** - Stardelite(ReactJs, NextJs, Typescript, NodeJs)
+  - **Front End Developer** - Stardelite (ReactJs, NextJs, Typescript, NodeJs)
 
 # 🎓 **Education & Certifications**  
 

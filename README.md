@@ -5,10 +5,10 @@ Hi there! I'm Israel Oshagara, I am passionate about building secure and scalabl
 # 🛠️ **Tech Stack & Expertise**  
 
    ##  _**Full-Stack Development**_  
-  - Frontend: React.js, Next.js, Tailwind CSS, Framer Motion
-  - Backend: Node.js, Express.js  
+  - Frontend: React.js, ReactNative Next.js, Tailwind CSS, Framer Motion
+  - Backend: Node.js, Express.js, NestJs  
   - Database: MongoDB, MySql  
-  - Version control: Git, GitHub
+  - Version control: Git, GitHub actions
 
   ## _**Cybersecurity & IT Security**_  
   - Vulnerability assessment and penetration testing (VAPT)  
@@ -26,8 +26,7 @@ Hi there! I'm Israel Oshagara, I am passionate about building secure and scalabl
 # 🎓 **Education & Certifications**  
 
   - BSc. Computer Science (First Class), Salem University Lokoja, Nigeria  
-  - Best graduating student in Computer Science  
-  - Certified vulnerability assessor (Digitanotion)
+  - Msc. Information Management (in view)
 
 # 📫 **Connect with Me**  
 

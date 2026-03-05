@@ -1,6 +1,6 @@
-# 🚀 **Israel Oshagara | Web Developer & Cybersecurity Analyst**  
+# 🚀 **Israel Oshagara | Full-Stack Software Engineer | React • React Native • Node.js • TypeScript | Building scalable web & mobile products**  
 
-Hi there! I'm Israel Oshagara, a cybersecurity analyst and web developer with expertise in penetration testing, web security, and full-stack development. I am passionate about building secure and scalable digital solutions.  
+Hi there! I'm Israel Oshagara, I am passionate about building secure and scalable digital solutions. 
 
 # 🛠️ **Tech Stack & Expertise**  
 

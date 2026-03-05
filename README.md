@@ -1,4 +1,4 @@
-# 🚀 **Israel Oshagara | Full-Stack Software Engineer | React • React Native • Node.js • TypeScript | Building scalable web & mobile products**  
+#**ISRAEL OSHAGARA | Full-Stack Software Engineer | React • React Native • Node.js • TypeScript | Building scalable web & mobile products**  
 
 Hi there! I'm Israel Oshagara, I am passionate about building secure and scalable digital solutions. 
 
